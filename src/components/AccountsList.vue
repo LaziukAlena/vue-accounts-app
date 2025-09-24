@@ -223,7 +223,7 @@ export default defineComponent({
 .hint {
   font-size: 13px;
   color: #666;
-  background-color: #e0f7ff;
+  background-color: #f0fbff;
   padding: 8px 12px;
   border-radius: 6px;
   margin-bottom: 10px;
